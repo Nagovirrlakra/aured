@@ -20,6 +20,13 @@ Keep your system up-to-date by running `-su`.
 
 ## Getting Started
 
+### Installation
+Just run the aured-install script
+```
+./aured-install
+```
+and it will installing aured for u and, u've got aured by this auring script...
+
 ### Requirements
 - Make sure you have Rust installed.
 - Stay connected to the internet for smooth package operations.
